@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+.landing-page{
+    background-image: url(/World.io/images/Background.png);
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.searchbar{
+    background: rgba(255, 255, 255, 0.15);
+    border: transparent;
+    border-radius: 4px;
+    width: 450px;
+}
+.download-btn{
+    background: linear-gradient(95.85deg, #9BE7FF 0%, #36C3FF 100%);
+    border-radius: 4px;
+    width: max-content;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: rgb(255, 255, 255);
+}
+/* ---------------------------------------- */
+.heading{
+    font-size: 46px;
+    color: #FFFF;
+    font-weight: 400;
+}
+.sub-heading{
+    color: #FFFF;
+    font-size: 20px;
+    font-weight: 300;
+}
+@media only screen and (max-width: 1120px){
+    .searchbar{
+        width: 100%;
+    }
+}
