@@ -6,7 +6,7 @@
 .landing-page{
     background-image: url(/World.io/images/Background.png);
     background-repeat: no-repeat;
-    height: 100vh;
+    height: 810px;
 }
 .searchbar{
     background: rgba(255, 255, 255, 0.15);
@@ -33,6 +33,19 @@
     font-size: 20px;
     font-weight: 300;
 }
+.your-portal{
+    background: #000000;
+}
+.web-3{
+    background: linear-gradient(94.99deg, #36C3FF 0%, #00DA8B 99.87%);
+    -webkit-background-clip:text;
+    color: transparent;
+}
+.card{
+    background-color: #000000;
+    color: #FFFF;
+}
+
 @media only screen and (max-width: 1120px){
     .searchbar{
         width: 100%;
