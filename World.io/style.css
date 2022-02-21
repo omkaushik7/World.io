@@ -34,6 +34,7 @@
 }
 .your-portal , .worlds , .frequently-asked-questions , .sponsors{
     background: #000000;
+    margin-top: -1px;
 }
 .web-3 , .possibility{
     background: linear-gradient(94.99deg, #36C3FF 0%, #00DA8B 99.87%);
