@@ -8,6 +8,7 @@
     backdrop-filter: brightness(0);
     height: 810px;
 }
+
 .searchbar{
     background: rgba(255, 255, 255, 0.15);
     border: transparent;
@@ -41,11 +42,22 @@
 .web-3 , .possibility{
     background: linear-gradient(94.99deg, #36C3FF 0%, #00DA8B 99.87%);
     -webkit-background-clip:text;
+    background-clip: text;
     color: transparent;
+}
+.worlds p{
+    font-size: 14px;
+}
+.badge-bg{
+    background: linear-gradient(99.09deg, #9BE7FF 0%, #36C3FF 100%);
+    border-radius: 2px;
+    font-size: 12px;
+    color: #000000; 
 }
 .frequently-asked-questions-color{
     background: linear-gradient(90.37deg, #36C3FF -0.06%, #00DA8B 99.99%);
     -webkit-background-clip:text;
+    background-clip: text;
     color: transparent;
 }
 .card{
@@ -68,3 +80,4 @@ hr{
         width: 100%;
     }
 }
+
