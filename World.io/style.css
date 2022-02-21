@@ -5,6 +5,7 @@
 .landing-page{
     background-image: url(/World.io/images/Background.png);
     background-repeat: no-repeat;
+    backdrop-filter: brightness(0);
     height: 810px;
 }
 .searchbar{
