@@ -36,7 +36,7 @@
 .your-portal{
     background: #000000;
 }
-.web-3{
+.web-3 , .possibility{
     background: linear-gradient(94.99deg, #36C3FF 0%, #00DA8B 99.87%);
     -webkit-background-clip:text;
     color: transparent;
