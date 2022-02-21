@@ -32,7 +32,7 @@
     font-size: 20px;
     font-weight: 300;
 }
-.your-portal , .worlds , .frequently-asked-questions , .sponsors{
+.your-portal , .worlds , .frequently-asked-questions , .sponsors , .footer{
     background: #000000;
     margin-top: -1px;
 }
@@ -55,6 +55,7 @@ hr{
     width: 75%;
     margin: auto;
 }
+
 
 @media only screen and (max-width: 1120px){
     .searchbar{
