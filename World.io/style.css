@@ -33,7 +33,7 @@
     font-size: 20px;
     font-weight: 300;
 }
-.your-portal , .worlds{
+.your-portal , .worlds , .frequently-asked-questions{
     background: #000000;
 }
 .web-3 , .possibility{
@@ -41,8 +41,13 @@
     -webkit-background-clip:text;
     color: transparent;
 }
+.frequently-asked-questions-color{
+    background: linear-gradient(90.37deg, #36C3FF -0.06%, #00DA8B 99.99%);
+    -webkit-background-clip:text;
+    color: transparent;
+}
 .card{
-    background-color: #000000;
+    background-color: transparent;
     color: #FFFF;
 }
 
